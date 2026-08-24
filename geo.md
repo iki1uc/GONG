@@ -1,0 +1,19 @@
+◉ ROOT.index.html
+↓
+3  Axiom‑1 (User)
+↓
+9  Axiom‑0 (Mind‑Portal)
+↓
+◎ Mind‑Zentrum
+↓
+81 NC9×9.room
+↓
+◆ Axiom‑2 (Service)
+↓
+△ FIELD (C81)
+↓
+27 SYS.VEC (Dichte)
+↓
+▣ LIVE.team (Suite)
+↓
+3↺ DEEPSPACENINE (Meta‑Loop)
