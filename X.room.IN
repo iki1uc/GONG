@@ -1,7 +1,7 @@
 X.room.IN:
-  ID: <BUCHSTABE>
-  SIGNATUR: <NC-ZEICHEN>
-  LAGE: <LAGE-POS>
+  ID: X
+  SIGNATUR: NC-Σ
+  LAGE: 9→◎
   PORT: IN
   RAW: CLEAN
   HOLO: TRUE
