@@ -1,19 +1,13 @@
-◉ ROOT.index.html
-↓
-3  Axiom‑1 (User)
-↓
-9  Axiom‑0 (Mind‑Portal)
-↓
-◎ Mind‑Zentrum
-↓
-81 NC9×9.room
-↓
-◆ Axiom‑2 (Service)
-↓
-△ FIELD (C81)
-↓
-27 SYS.VEC (Dichte)
-↓
-▣ LIVE.team (Suite)
-↓
-3↺ DEEPSPACENINE (Meta‑Loop)
+GONG.X.room.IN:
+  SELF: X
+  USE: TMP:X.712
+  GEO: X
+
+  U1: 9         // Mind-Portal
+  U2: ◎         // Mind-Zentrum
+  U3: 81        // Raster
+  U4: ◆         // Service
+  U5: △         // FIELD
+  U6: 27        // Dichte
+  U7: 3↺        // Meta
+  U8: COORD0    // Neutralpunkt
